@@ -20,7 +20,7 @@ soundcloud_username: pearkes
 # You can sign up for a Google Anayltics account here: http://www.google.com/analytics/
 # That will let you see how many people come to your site, and where they come from.
 # Pretty snazzy.
-google_anayltics_key:
+google_anayltics_key: UA-43846674-1
 
 # The link to your background image. See here: github.com/pearkes/singer/#background_image
 background_image_link: http://i.imgur.com/nNfYK8B.jpg
