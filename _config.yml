@@ -35,10 +35,10 @@ singer_outro: |
         <p>Or, you should follow me on <a href="https://soundcloud.com/ami-noctu">SoundCloud</a>.</p>
 
 # The font for the body. See here: github.com/pearkes/singer/#custom_fonts
-body_font: Josefin Sans
+body_font: Courier
 
 # The font for headings. See here: github.com/pearkes/singer/#custom_fonts
-heading_font: Dawning of a New Day
+heading_font: Courier
 
 ########################################################################
 #        Useless Technical stuff below. Proceed with Caution!!!        #
