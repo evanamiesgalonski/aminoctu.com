@@ -25,11 +25,11 @@ background_image_link: http://i.imgur.com/qxkruc2.png?1
 
 # This intro will go on the first page.
 singer_intro: |
-        <p>saltation |ˌsôlˈtāSHən|</p>
+        <p>Saltation</p>
         <p>noun
-1 Biology abrupt evolutionary change; sudden large-scale mutation.
-2 Geology the movement of hard particles such as sand over an uneven surface in a turbulent flow of air or water.
-3 archaic the action of leaping or dancing.</p>
+1 Biology- abrupt evolutionary change; sudden large-scale mutation.
+2 Geology- the movement of hard particles such as sand over an uneven surface in a turbulent flow of air or water.
+3 Archaic- the action of leaping or dancing.</p>
 
 # This outro will go on the first page below the track list.
 singer_outro: |
