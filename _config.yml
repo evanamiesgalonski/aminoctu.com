@@ -30,9 +30,9 @@ singer_intro: |
 # This outro will go on the first page below the track list.
 
 singer_outro: |
- #       <p><a href="http://gum.co/rtTQm">Purchase</a></p>
-  #      <p class="explain">Pay what you will. Take it for free, if need be. (just type zero in the amount box).</p>
-   #     <p>Or, you should follow me on <a href="https://soundcloud.com/ami-noctu">SoundCloud</a>.</p>
+        <p><a href="http://gum.co/rtTQm">Purchase</a></p>
+        <p class="explain">Pay what you will. Take it for free, if need be. (just type zero in the amount box).</p>
+        <p>Or, you should follow me on <a href="https://soundcloud.com/ami-noctu">SoundCloud</a>.</p>
 
 # The font for the body. See here: github.com/pearkes/singer/#custom_fonts
 body_font: Courier
